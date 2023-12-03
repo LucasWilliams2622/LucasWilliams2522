@@ -90,6 +90,6 @@
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<div>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
+<a href="#" target="_blank">
+  <img src="svg/lucas-quotes.svg" width="846" height="150" alt="lucas-official" />
+</a>

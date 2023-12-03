@@ -48,7 +48,7 @@
 &nbsp;
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">💻 GitHub Stats 💻</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -61,7 +61,7 @@
 </div>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">🌟 Where to find me 🌟</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -88,7 +88,7 @@
 <br>
 
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center">🔭 My Favorites Quote 🔭</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/lucas-quotes.svg" width="846" height="150" alt="lucas-official" />

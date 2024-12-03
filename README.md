@@ -68,9 +68,9 @@
   <!-- <a href="https://lucas.id.vn" target="blank">
     <img width="90" height="90" src="images/logo-lucas-transparent-bg-192x192.png" alt="lucas-blog" />
   </a> -->
-  <a href="https://www.facebook.com/profile.php?id=100051910643168" target="blank">
+<!--   <a href="https://www.facebook.com/profile.php?id=100051910643168" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="lucas-facebook" />
-  </a>
+  </a> -->
   <!-- <a href="https://www.youtube.com/c/lucasOfficial" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="lucas-youtube" />
   </a> -->
